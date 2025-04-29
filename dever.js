@@ -1,5 +1,5 @@
-let valor1 =
-let valor2 = 
+let valor1 = 2
+let valor2 = 5
 
 if (valor1 < valor2){
     console.log("primeiro valor é maior");
