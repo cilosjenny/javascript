@@ -1,0 +1,15 @@
+estrutura de controle de:
+
+decisao
+if
+else
+else if
+
+repetição
+for
+while
+do while
+
+controle
+break
+continue
