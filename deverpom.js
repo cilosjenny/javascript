@@ -20,3 +20,5 @@ if(nota >=7){
 
 
 //"===": significa extritamente igual
+//o else if pode ser usado como: else if(nota >=5)
+//pq se ele n passou pela primeira foi pq ela n foi atendida, logo sendo menor q 7

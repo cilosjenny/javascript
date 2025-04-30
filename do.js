@@ -1,4 +1,4 @@
-//ele sempre vaie executar alguma coisa
+//ele sempre vai executar alguma coisa
 //ele vai executar pelo menos uma vez
 //serve para quando quer mostrar algo pro usuário msm se der errado
 

@@ -13,3 +13,16 @@ do while
 controle
 break
 continue
+
+
+= : atributo/atribuição
+== : olha se é igual e se são valores iguais, no caso se os dois são numeros ou se os dois sao strings e etc
+=== : estritamente igual
+!= : diferente
+!== : estritamente diferente
+
+
+funções
+entrada (parametros)
+saida (retorno)
+
