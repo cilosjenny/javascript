@@ -17,3 +17,15 @@
 for (let i =0;i<3; i = i + 1){
     console.log("Toc! Toc! Toc! Penny!")
 }
+
+
+
+for (let numero = 1; numero <=10; numero = numero + 1){
+    if(nuemro % 2 === 0){
+        console.log(`${nuemro} é par.` );
+        
+    }else{
+        console.log( `${nuemro} é impar.` )
+    }
+      
+}
